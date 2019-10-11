@@ -1,0 +1,5 @@
+DB
+---------
+name : k5758571_eduarea
+user :k5758571_eduarea
+password : db_eduare4
